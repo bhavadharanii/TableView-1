@@ -4,12 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>To-Do App.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
-		</dict>
-		<key>To-Do App.xcscheme_^#shared#^_</key>
+		<key>sample-project.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -17,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>3F1A7DAB2909092A00E2DD74</key>
+		<key>3F946DCF290AA18300077E10</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>3F1A7DBF2909092C00E2DD74</key>
+		<key>3F946DDF290AA18600077E10</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>3F1A7DCA2909092C00E2DD74</key>
+		<key>3F946DE9290AA18600077E10</key>
 		<dict>
 			<key>primary</key>
 			<true/>
